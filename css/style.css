@@ -10,6 +10,9 @@ p,ul li,ol li{
   color: black;
   text-align: center;
 }
+#projects{
+    background-color: bisque;
+}
 h2,h3,h4,h5,h6{
   font-family: 'Raleway', sans-serif;
 	margin:0;
